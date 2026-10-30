@@ -18,12 +18,20 @@
     {
       "name": "punchy-3.0-neoforge-1.21.1-birthday.jar",
       "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/83nCNSX4/punchy-3.0-neoforge-1.21.1-birthday.jar",
-      "replaces": ["punchy-*.jar"]
+      "replaces": ["punchy-3*.jar"]
     },
     {
       "name": "punchy-moves-1.0.1-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/mzgtK8pY/versions/BoPRUrbU/punchy-moves-1.0.1-neoforge-1.21.1.jar",
       "replaces": ["punchy-moves-*.jar"]
+    },
+    {
+      "path": "resourcepacks/Fluid & Foolish 1.0-hotfix.zip",
+      "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/main/Fluid%20%26%20Foolish%201.0-hotfix.zip"
+    },
+    {
+      "path": "./options.txt",
+      "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/main/options.txt"
     }
   ]
 }
