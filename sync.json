@@ -7,7 +7,8 @@
   "server": "mgitownia.pl",
   "ramDefault": 10240,
   "remove": [
-    "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+    "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+    "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
   ],
   "add": [
     {
