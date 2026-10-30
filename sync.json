@@ -9,5 +9,11 @@
   "remove": [
     "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
   ],
-  "add": []
+  "add": [
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "replaces": ["voicechat-*.jar"]
+    }
+  ]
 }
