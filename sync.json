@@ -14,6 +14,16 @@
       "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
       "replaces": ["voicechat-*.jar"]
-    }
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/83nCNSX4/punchy-3.0-neoforge-1.21.1-birthday.jar",
+      "replaces": ["punchy-*.jar"]
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://cdn.modrinth.com/data/mzgtK8pY/versions/BoPRUrbU/punchy-moves-1.0.1-neoforge-1.21.1.jar",
+      "replaces": ["punchy-moves-*.jar"]
+    },
   ]
 }
