@@ -1,20 +1,14 @@
 {
   "message": "Opcjonalny komunikat widoczny w konsoli launchera",
+  "pack": {
+    "version": "1",
+    "downloadPage": "https://www.curseforge.com/minecraft/modpacks/better-mc-neoforge-bmc5/download/8835241"
+  },
+  "server": "mgitownia.pl",
+  "ramDefault": 10240,
   "remove": [
-    "stary-mod-1.0.jar",
-    "mods/sodium-*.jar",
-    "resourcepacks/stara-paczka.zip"
+    "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
   ],
   "add": [
-    {
-      "name": "nowy-mod-2.1.jar",
-      "url": "https://twoja-domena.pl/gitowniamc/mods/nowy-mod-2.1.jar",
-      "sha1": "opcjonalna-suma-sha1",
-      "replaces": ["nowy-mod-2.0*.jar"]
-    },
-    {
-      "path": "config/jakis-config.toml",
-      "url": "https://twoja-domena.pl/gitowniamc/config/jakis-config.toml"
-    }
-  ]
+    {}
 }
