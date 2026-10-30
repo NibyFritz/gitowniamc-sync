@@ -1,0 +1,20 @@
+{
+  "message": "Opcjonalny komunikat widoczny w konsoli launchera",
+  "remove": [
+    "stary-mod-1.0.jar",
+    "mods/sodium-*.jar",
+    "resourcepacks/stara-paczka.zip"
+  ],
+  "add": [
+    {
+      "name": "nowy-mod-2.1.jar",
+      "url": "https://twoja-domena.pl/gitowniamc/mods/nowy-mod-2.1.jar",
+      "sha1": "opcjonalna-suma-sha1",
+      "replaces": ["nowy-mod-2.0*.jar"]
+    },
+    {
+      "path": "config/jakis-config.toml",
+      "url": "https://twoja-domena.pl/gitowniamc/config/jakis-config.toml"
+    }
+  ]
+}
