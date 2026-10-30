@@ -1,5 +1,5 @@
 {
-  "message": "Zaktualizowano liste modów!",
+  "message": "Zaktualizowano listę modów!",
   "pack": {
     "version": "1",
     "downloadPage": "https://www.curseforge.com/minecraft/modpacks/better-mc-neoforge-bmc5/download/8835241"
@@ -16,14 +16,14 @@
       "replaces": ["voicechat-*.jar"]
     },
     {
-      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "name": "punchy-3.0-neoforge-1.21.1-birthday.jar",
       "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/83nCNSX4/punchy-3.0-neoforge-1.21.1-birthday.jar",
       "replaces": ["punchy-*.jar"]
     },
     {
-      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "name": "punchy-moves-1.0.1-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/mzgtK8pY/versions/BoPRUrbU/punchy-moves-1.0.1-neoforge-1.21.1.jar",
       "replaces": ["punchy-moves-*.jar"]
-    },
+    }
   ]
 }
