@@ -33,6 +33,10 @@
     {
       "path": "./options.txt",
       "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/main/options.txt"
+    },
+    {
+      "path": "/config/iris.properties",
+      "url": "https://github.com/NibyFritz/gitowniamc-sync/blob/main/iris.properties"
     }
   ]
 }
