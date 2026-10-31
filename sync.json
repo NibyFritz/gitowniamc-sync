@@ -4,7 +4,7 @@
     "version": "1",
     "downloadPage": "https://www.curseforge.com/minecraft/modpacks/better-mc-neoforge-bmc5/download/8835241"
   },
-  "server": "mgitownia.pl",
+  "server": "gitownia.pl",
   "ramDefault": 10240,
   "remove": [
     "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
