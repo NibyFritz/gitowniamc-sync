@@ -41,6 +41,6 @@
     {
       "path": "/config/sdrp-common.json5",
       "url": "https://github.com/NibyFritz/gitowniamc-sync/blob/main/iris.properties"
-    },
+    }
   ]
 }
