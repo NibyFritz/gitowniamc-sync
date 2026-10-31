@@ -36,7 +36,7 @@
     },
     {
       "path": "/config/iris.properties",
-      "url": "https://github.com/NibyFritz/gitowniamc-sync/blob/main/iris.properties"
+      "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/refs/heads/main/iris.properties"
     },
     {
       "path": "/config/sdrp-common.json5",
