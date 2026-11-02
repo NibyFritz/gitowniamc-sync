@@ -32,6 +32,11 @@
       "replaces": ["punchy-3*.jar"]
     },
     {
+      "name": "create-1.21.1-6.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "replaces": ["create-1.21.1-*.jar"]
+    },
+    {
       "name": "punchy-moves-1.0.1-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/mzgtK8pY/versions/BoPRUrbU/punchy-moves-1.0.1-neoforge-1.21.1.jar",
       "replaces": ["punchy-moves-*.jar"]
