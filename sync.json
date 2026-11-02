@@ -22,6 +22,11 @@
       "replaces": ["gitowniajoin-*.jar"]
     },
     {
+      "name": "gitowniatpa-1.0.0.jar",
+      "url": "https://github.com/NibyFritz/gitowniamc-sync/raw/refs/heads/main/gitowniatpa-1.0.0.jar",
+      "replaces": ["gitowniatpa-*.jar"]
+    },
+    {
       "name": "punchy-3.0-neoforge-1.21.1-birthday.jar",
       "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/83nCNSX4/punchy-3.0-neoforge-1.21.1-birthday.jar",
       "replaces": ["punchy-3*.jar"]
