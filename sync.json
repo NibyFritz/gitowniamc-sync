@@ -22,6 +22,11 @@
       "replaces": ["gitowniajoin-*.jar"]
     },
     {
+      "name": "Cognition-v2.4.13-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/9GdSY2FZ/versions/cL9RvpFS/Cognition-v2.4.13-1.21.1.jar",
+      "replaces": ["Cognition-*.jar"]
+    },
+    {
       "name": "gitowniatpa-1.0.0.jar",
       "url": "https://github.com/NibyFritz/gitowniamc-sync/raw/refs/heads/main/gitowniatpa-1.0.0.jar",
       "replaces": ["gitowniatpa-*.jar"]
