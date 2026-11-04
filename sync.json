@@ -23,29 +23,9 @@
       "replaces": ["holyhell-*.jar"]
     },
     {
-      "name": "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
-      "url": "https://cdn.modrinth.com/data/eBzFuVTM/versions/ygogZrIE/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
-      "replaces": ["waterframes-NEOFORGE-mc1.21.1-v*.jar"]
-    },
-    {
-      "name": "CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/JS0K93bG/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
-      "replaces": ["CreativeCore_NEOFORGE_*.jar"]
-    },
-    {
-      "name": "watermedia_binaries-3.0.0.jar",
-      "url": "https://cdn.modrinth.com/data/4997XcoK/versions/IvgVb1Pv/watermedia_binaries-3.0.0.jar",
-      "replaces": ["watermedia_binaries-*.jar"]
-    },
-    {
       "name": "immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/B2YtQYCh/immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
       "replaces": ["immersive_armors-*.jar"]
-    },
-    {
-      "name": "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
-      "url": "https://cdn.modrinth.com/data/dGGbEGoV/versions/fYHfGRbK/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
-      "replaces": ["watervision-NF-*.jar"]
     },
     {
       "name": "creaturefeature-1.2.3.3.jar",
