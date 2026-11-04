@@ -22,6 +22,16 @@
       "replaces": ["voicechat-*.jar"]
     },
     {
+      "name": "WebDisplays-REMASTER-2.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/yfY0Iuwp/versions/fQx1Yh0E/WebDisplays-REMASTER-2.1.0.jar",
+      "replaces": ["WebDisplays-REMASTER-*jar"]
+    },
+    {
+      "name": "mcef-neoforge-2.1.6-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/TObQ0HxZ/versions/euXLgkSB/mcef-neoforge-2.1.6-1.21.1.jar",
+      "replaces": ["mcef-neoforge-*.jar"]
+    },
+    {
       "name": "holyhell-2.0.2.jar",
       "url": "https://cdn.modrinth.com/data/XaEPr11D/versions/gsLoZcI8/holyhell-2.0.2.jar",
       "replaces": ["holyhell-*.jar"]
