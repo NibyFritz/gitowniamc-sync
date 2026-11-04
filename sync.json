@@ -17,6 +17,26 @@
       "replaces": ["voicechat-*.jar"]
     },
     {
+      "name": "holyhell-2.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/XaEPr11D/versions/gsLoZcI8/holyhell-2.0.2.jar",
+      "replaces": ["holyhell-*.jar"]
+    },
+    {
+      "name": "creaturefeature-1.2.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/7nEkcq0F/versions/eW0CuJzM/creaturefeature-1.2.3.3.jar",
+      "replaces": ["creaturefeature-*.jar"]
+    },
+    {
+      "name": "blueprint-1.21.1-8.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/VsM5EDoI/versions/5JOCYuQM/blueprint-1.21.1-8.1.0.jar",
+      "replaces": ["blueprint-1.21.1-*.jar"]
+    },
+    {
+      "name": "cultofazazelneoforge-1.1.4.12.jar",
+      "url": "https://cdn.modrinth.com/data/tnd2BYam/versions/soOXKDV6/cultofazazelneoforge-1.1.4.12.jar",
+      "replaces": ["cultofazazelneoforge-*.jar"]
+    },
+    {
       "name": "gitowniajoin-1.0.0.jar",
       "url": "https://github.com/NibyFritz/gitowniamc-sync/raw/refs/heads/main/gitowniajoin-1.0.0.jar",
       "replaces": ["gitowniajoin-*.jar"]
