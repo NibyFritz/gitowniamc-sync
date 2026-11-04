@@ -32,11 +32,6 @@
       "replaces": ["CreativeCore_NEOFORGE_*.jar"]
     },
     {
-      "name": "watermedia-2.1.37.jar",
-      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/fB0LmHnR/watermedia-2.1.37.jar",
-      "replaces": ["watermedia-*.jar"]
-    },
-    {
       "name": "watermedia_binaries-3.0.0.jar",
       "url": "https://cdn.modrinth.com/data/4997XcoK/versions/IvgVb1Pv/watermedia_binaries-3.0.0.jar",
       "replaces": ["watermedia_binaries-*.jar"]
