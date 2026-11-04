@@ -27,8 +27,8 @@
       "replaces": ["Cognition-*.jar"]
     },
     {
-      "name": "gitowniatpa-1.0.0.jar",
-      "url": "https://github.com/NibyFritz/gitowniamc-sync/raw/refs/heads/main/gitowniatpa-1.0.0.jar",
+      "name": "gitowniatpa-2.0.0.jar",
+      "url": "https://github.com/NibyFritz/gitowniamc-sync/raw/refs/heads/main/gitowniatpa-2.0.0.jar",
       "replaces": ["gitowniatpa-*.jar"]
     },
     {
