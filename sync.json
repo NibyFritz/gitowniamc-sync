@@ -18,6 +18,11 @@
   ],
   "add": [
     {
+      "name": "spawner_tweaks-1.21.x-NeoForge-1.1.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1169074/files/6046749/download",
+      "replaces": ["spawner_tweaks-*.jar"]
+    },
+    {
       "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
       "replaces": ["voicechat-*.jar"]
