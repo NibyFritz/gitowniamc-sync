@@ -23,11 +23,6 @@
       "replaces": ["voicechat-*.jar"]
     },
     {
-      "name": "webdisplaystogether-1.08.jar",
-      "url": "https://www.curseforge.com/api/v1/mods/1625878/files/8805117/download",
-      "replaces": ["webdisplaystogether*.jar"]
-    },
-    {
       "name": "mcef-neoforge-2.1.6-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/TObQ0HxZ/versions/euXLgkSB/mcef-neoforge-2.1.6-1.21.1.jar",
       "replaces": ["mcef-neoforge-*.jar"]
