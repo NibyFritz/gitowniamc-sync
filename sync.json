@@ -13,7 +13,8 @@
     "CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
     "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
     "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
-    "watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
+    "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+    "WebDisplays-REMASTER-2.1.0.jar"
   ],
   "add": [
     {
@@ -22,9 +23,9 @@
       "replaces": ["voicechat-*.jar"]
     },
     {
-      "name": "WebDisplays-REMASTER-2.1.0.jar",
-      "url": "https://cdn.modrinth.com/data/yfY0Iuwp/versions/fQx1Yh0E/WebDisplays-REMASTER-2.1.0.jar",
-      "replaces": ["WebDisplays-REMASTER-*jar"]
+      "name": "webdisplaystogether-1.08.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1625878/files/8805117/download",
+      "replaces": ["webdisplaystogether*.jar"]
     },
     {
       "name": "mcef-neoforge-2.1.6-1.21.1.jar",
