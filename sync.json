@@ -18,13 +18,25 @@
     "sodium-neoforge-0.6.13+mc1.21.1.jar",
     "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
     "iris-neoforge-1.8.12+mc1.21.1.jar",
-    "sodiumleafculling-neoforge-1.0.1-1.21.1.jar"
+    "sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+    "supplementaries-1.21-3.5.34-neoforge.jar",
+    "moonlight-1.21.1-3.6.3-neoforge.jar"
   ],
   "add": [
     {
       "name": "spawner_tweaks-1.21.x-NeoForge-1.1.1.jar",
       "url": "https://www.curseforge.com/api/v1/mods/1169074/files/6046749/download",
       "replaces": ["spawner_tweaks-*.jar"]
+    },
+    {
+      "name": "supplementaries-1.21.1-4.0.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/rWq0ko29/supplementaries-1.21.1-4.0.2-neoforge.jar",
+      "replaces": ["supplementaries-1.21.1-*.jar"]
+    },
+    {
+      "name": "moonlight-1.21.1-3.8.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/drG7quQp/moonlight-1.21.1-3.8.2-neoforge.jar",
+      "replaces": ["moonlight-1.21.1-*.jar"]
     },
     {
       "name": "iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
