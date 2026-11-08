@@ -23,6 +23,46 @@
       "replaces": ["spawner_tweaks-*.jar"]
     },
     {
+      "name": "create_hypertube-0.6.0-NEOFORGE.jar",
+      "url": "https://cdn.modrinth.com/data/ATDdrG1y/versions/qYjOyvgW/create_hypertube-0.6.0-NEOFORGE.jar",
+      "replaces": ["create_hypertube-*.jar"]
+    },
+    {
+      "name": "create-enchantment-industry-2.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar",
+      "replaces": ["create-enchantment-industry-*.jar"]
+    },
+    {
+      "name": "CreateDragonsPlus-1.11.9.jar",
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar",
+      "replaces": ["CreateDragonsPlus-*.jar"]
+    },
+    {
+      "name": "createdieselgenerators-1.21.1-1.3.15.jar",
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar",
+      "replaces": ["createdieselgenerators-1.21.1-*.jar"]
+    },
+    {
+      "name": "createaddition-1.7.2.jar",
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar",
+      "replaces": ["createaddition-*.jar"]
+    },
+    {
+      "name": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "replaces": ["create-aeronautics-bundled-1.21.1-*.jar"]
+    },
+    {
+      "name": "sable-neoforge-1.21.1-2.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
+      "replaces": ["sable-neoforge-1.21.1-*.jar"]
+    },
+    {
+      "name": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1414670/files/8243336/download",
+      "replaces": ["railways-0.3.0-beta.2+neoforge-*"]
+    },
+    {
       "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
       "replaces": ["voicechat-*.jar"]
