@@ -15,7 +15,8 @@
     "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
     "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
     "WebDisplays-REMASTER-2.1.0.jar",
-    "sodium-neoforge-0.6.13+mc1.21.1.jar"
+    "sodium-neoforge-0.6.13+mc1.21.1.jar",
+    "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar"
   ],
   "add": [
     {
@@ -40,7 +41,7 @@
     },
     {
       "name": "CreateDragonsPlus-1.11.9.jar",
-      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
       "replaces": ["CreateDragonsPlus-*.jar"]
     },
     {
