@@ -16,13 +16,19 @@
     "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
     "WebDisplays-REMASTER-2.1.0.jar",
     "sodium-neoforge-0.6.13+mc1.21.1.jar",
-    "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar"
+    "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
+    "iris-neoforge-1.8.12+mc1.21.1.jar"
   ],
   "add": [
     {
       "name": "spawner_tweaks-1.21.x-NeoForge-1.1.1.jar",
       "url": "https://www.curseforge.com/api/v1/mods/1169074/files/6046749/download",
       "replaces": ["spawner_tweaks-*.jar"]
+    },
+    {
+      "name": "iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "replaces": ["iris-neoforge-*.jar"]
     },
     {
       "name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
