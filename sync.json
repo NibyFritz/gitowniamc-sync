@@ -1,0 +1,177 @@
+{
+  "message": "Zaktualizowano listę modów!",
+  "pack": {
+    "version": "1",
+    "downloadPage": "https://www.curseforge.com/minecraft/modpacks/better-mc-neoforge-bmc5/download/8835241"
+  },
+  "server": "gitownia.pl",
+  "ramDefault": 10240,
+  "remove": [
+    "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+    "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar",
+    "watermedia-2.1.37.jar",
+    "CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
+    "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+    "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+    "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+    "WebDisplays-REMASTER-2.1.0.jar",
+    "sodium-neoforge-0.6.13+mc1.21.1.jar",
+    "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
+    "iris-neoforge-1.8.12+mc1.21.1.jar",
+    "sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+    "supplementaries-1.21-3.5.34-neoforge.jar",
+    "moonlight-1.21.1-3.6.3-neoforge.jar"
+  ],
+  "add": [
+    {
+      "name": "spawner_tweaks-1.21.x-NeoForge-1.1.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1169074/files/6046749/download",
+      "replaces": ["spawner_tweaks-*.jar"]
+    },
+    {
+      "name": "supplementaries-1.21.1-4.0.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/rWq0ko29/supplementaries-1.21.1-4.0.2-neoforge.jar",
+      "replaces": ["supplementaries-1.21.1-*.jar"]
+    },
+    {
+      "name": "moonlight-1.21.1-3.8.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/drG7quQp/moonlight-1.21.1-3.8.2-neoforge.jar",
+      "replaces": ["moonlight-1.21.1-*.jar"]
+    },
+    {
+      "name": "iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "replaces": ["iris-neoforge-*.jar"]
+    },
+    {
+      "name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "replaces": ["sodium-neoforge-*"]
+    },
+    {
+      "name": "create_hypertube-0.6.0-NEOFORGE.jar",
+      "url": "https://cdn.modrinth.com/data/ATDdrG1y/versions/qYjOyvgW/create_hypertube-0.6.0-NEOFORGE.jar",
+      "replaces": ["create_hypertube-*.jar"]
+    },
+    {
+      "name": "create-enchantment-industry-2.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar",
+      "replaces": ["create-enchantment-industry-*.jar"]
+    },
+    {
+      "name": "CreateDragonsPlus-1.11.9.jar",
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
+      "replaces": ["CreateDragonsPlus-*.jar"]
+    },
+    {
+      "name": "createdieselgenerators-1.21.1-1.3.15.jar",
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar",
+      "replaces": ["createdieselgenerators-1.21.1-*.jar"]
+    },
+    {
+      "name": "createaddition-1.7.2.jar",
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar",
+      "replaces": ["createaddition-*.jar"]
+    },
+    {
+      "name": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "replaces": ["create-aeronautics-bundled-1.21.1-*.jar"]
+    },
+    {
+      "name": "sable-neoforge-1.21.1-2.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
+      "replaces": ["sable-neoforge-1.21.1-*.jar"]
+    },
+    {
+      "name": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1414670/files/8522154/download",
+      "replaces": ["railways-0.3.0-beta.2+neoforge-*"]
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "replaces": ["voicechat-*.jar"]
+    },
+    {
+      "name": "mcef-neoforge-2.1.6-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/TObQ0HxZ/versions/euXLgkSB/mcef-neoforge-2.1.6-1.21.1.jar",
+      "replaces": ["mcef-neoforge-*.jar"]
+    },
+    {
+      "name": "holyhell-2.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/XaEPr11D/versions/gsLoZcI8/holyhell-2.0.2.jar",
+      "replaces": ["holyhell-*.jar"]
+    },
+    {
+      "name": "immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/B2YtQYCh/immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
+      "replaces": ["immersive_armors-*.jar"]
+    },
+    {
+      "name": "creaturefeature-1.2.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/7nEkcq0F/versions/eW0CuJzM/creaturefeature-1.2.3.3.jar",
+      "replaces": ["creaturefeature-*.jar"]
+    },
+    {
+      "name": "blueprint-1.21.1-8.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/VsM5EDoI/versions/5JOCYuQM/blueprint-1.21.1-8.1.0.jar",
+      "replaces": ["blueprint-1.21.1-*.jar"]
+    },
+    {
+      "name": "cultofazazelneoforge-1.1.4.12.jar",
+      "url": "https://cdn.modrinth.com/data/tnd2BYam/versions/soOXKDV6/cultofazazelneoforge-1.1.4.12.jar",
+      "replaces": ["cultofazazelneoforge-*.jar"]
+    },
+    {
+      "name": "gitowniajoin-1.0.0.jar",
+      "url": "https://github.com/NibyFritz/gitowniamc-sync/raw/refs/heads/main/gitowniajoin-1.0.0.jar",
+      "replaces": ["gitowniajoin-*.jar"]
+    },
+    {
+      "name": "Cognition-v2.4.13-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/9GdSY2FZ/versions/cL9RvpFS/Cognition-v2.4.13-1.21.1.jar",
+      "replaces": ["Cognition-*.jar"]
+    },
+    {
+      "name": "gitowniatpa-2.0.0.jar",
+      "url": "https://github.com/NibyFritz/gitowniamc-sync/raw/refs/heads/main/gitowniatpa-2.0.0.jar",
+      "replaces": ["gitowniatpa-*.jar"]
+    },
+    {
+      "name": "punchy-3.0-neoforge-1.21.1-birthday.jar",
+      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/83nCNSX4/punchy-3.0-neoforge-1.21.1-birthday.jar",
+      "replaces": ["punchy-3*.jar"]
+    },
+    {
+      "name": "create-1.21.1-6.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "replaces": ["create-1.21.1-*.jar"]
+    },
+    {
+      "name": "punchy-moves-1.0.1-neoforge-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/mzgtK8pY/versions/BoPRUrbU/punchy-moves-1.0.1-neoforge-1.21.1.jar",
+      "replaces": ["punchy-moves-*.jar"]
+    },
+    {
+      "path": "resourcepacks/Fluid & Foolish 1.0-hotfix.zip",
+      "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/main/Fluid%20%26%20Foolish%201.0-hotfix.zip"
+    },
+    {
+      "path": "./options.txt",
+      "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/main/options.txt"
+    },
+    {
+      "path": "/config/iris.properties",
+      "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/refs/heads/main/iris.properties"
+    },
+    {
+      "path": "/config/sdrp-common.json5",
+      "url": "https://raw.githubusercontent.com/NibyFritz/gitowniamc-sync/refs/heads/main/sdrp-common.json5"
+    },
+    {
+      "path": "/config/sound_physics_remastered/soundphysics.properties",
+      "url": "https://github.com/NibyFritz/gitowniamc-sync/blob/main/soundphysics.properties"
+    }
+  ]
+}
