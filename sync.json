@@ -36,11 +36,6 @@
       "replaces": ["supplementaries-1.21.1-*.jar"]
     },
     {
-      "name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar?",
-      "replaces": ["sodiumoptionsapi-neoforge-*.jar"]
-    },
-    {
       "name": "reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
       "replaces": ["reeses-sodium-options-neoforge-*.jar"]
